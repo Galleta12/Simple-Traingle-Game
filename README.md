@@ -21,3 +21,4 @@ This is the link of the itch.io
 https://galleta12.itch.io/triangle-crow
 
 Pictures of the game
+![Traingle](https://user-images.githubusercontent.com/79543944/229327442-1f1c7f2b-f4e4-4590-9bfe-f72592284db8.PNG)
